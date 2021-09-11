@@ -1,10 +1,10 @@
 {
-  "name": "react-tailwind-boilerplate",
+  "name": "react-contact-list-app",
   "version": "1.0.0",
   "author": "xNoJustice",
   "description": "CRA Template for tailwind, prettier and autopublish on GH pages",
-  "repository": "https://github.com/xNoJustice/react-tailwind-boilerplate",
-  "homepage": "https://xnojustice.github.io/react-tailwind-boilerplate",
+  "repository": "https://github.com/xNoJustice/react-contact-list-app",
+  "homepage": "https://xnojustice.github.io/react-contact-list-app",
   "keywords": [
     "react",
     "reactjs",
@@ -29,6 +29,7 @@
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
+    "axios": "^0.21.4",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
