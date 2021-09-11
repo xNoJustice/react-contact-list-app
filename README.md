@@ -1,4 +1,4 @@
-<img alt="React Tailwind Boilerplate" src="" />
+<img alt="React Tailwind Boilerplate" src="https://github.com/xNoJustice/react-contact-list-app/blob/a317e73c89ea2d519a1a79ce523f7c0c1f98814e/app.gif" />
 
 ## Install & Start
 
